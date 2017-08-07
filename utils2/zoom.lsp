@@ -2,7 +2,7 @@
   (command "zoom" "0.3x") (prin1))
 (defun c:zx()
   (command "zoom" "1.25x") (prin1))
-(defun c:zd()
+(defun c:zz()
   (command "zoom" "all") (prin1))
 (defun c:zf()
   (command "zoom" "e") (prin1)) 
